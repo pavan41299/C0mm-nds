@@ -16,3 +16,11 @@
 # git config --global user.email "pavankumar41299@gmail.com"
 
 # git config --global user.name "Pavan Parvatam"
+
+
+#git push origin <branchname>
+
+
+#git checkout <branchname>
+
+#git pull 

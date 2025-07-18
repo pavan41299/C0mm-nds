@@ -1,4 +1,6 @@
 print(" Pavan")
-for i in range(11):
-    i= i*2
-    print(i)
+i=5
+while i>0:
+    j= i*2
+    i = i-1
+    print(j)
