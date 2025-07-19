@@ -16,3 +16,6 @@
 # git config --global user.email "pavankumar41299@gmail.com"
 
 # git config --global user.name "Pavan Parvatam"
+#created two branches-learning branch 1 adn 2
+#next in Git try to pull the changes
+#trying to commit
