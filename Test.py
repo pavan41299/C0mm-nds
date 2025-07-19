@@ -1,4 +1,4 @@
 print(" Pavan")
-for i in range(11):
-    i= i*2
-    print(i)
+for i in range(5):
+    i= i*5
+    print(i+1)
